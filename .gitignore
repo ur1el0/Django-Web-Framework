@@ -1,0 +1,8 @@
+__pycache__/
+media/
+migrations/
+db.sqlite3
+.DS_Store
+*.log
+*.pot
+*.pyc
